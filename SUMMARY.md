@@ -5,5 +5,3 @@
     * [NumberField](numberfield.md)
     * [TextInputField](textinputfield.md)
 
-
-
