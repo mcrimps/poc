@@ -3,33 +3,33 @@
 ### Calculation
 
 ```cs
-Calculation
+FormCalculation Calculation
 ```
 
 An instance of a FormCalculation
 
 ## FormCalculation
 
-### string
+### Function
 
 ```cs
-string
+string Function
 ```
 
 The formula that is the basis of the calculation
 
-### Dictionary
+### Variables
 
 ```cs
-Dictionary
+Dictionary Variables
 ```
 
 The variables that are in the formula
 
-### int
+### DecimalPlaces
 
 ```cs
-int
+int DecimalPlaces
 ```
 
 Set the number of decimal places in the calculation result
