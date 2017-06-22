@@ -1,4 +1,6 @@
-## Maximum
+## NumberField : KField
+
+### Maximum
 
 ```cs
 Maximum
@@ -6,7 +8,7 @@ Maximum
 
 Maximum: the highest value the field can contain. Valid entries cannot exceed this value.
 
-## Minimum
+### Minimum
 
 ```cs
 Minimum
@@ -14,7 +16,7 @@ Minimum
 
 Minimum: the lowest value the field can contain. Valid entries cannot be less than this value.
 
-## MultipleOf
+### MultipleOf
 
 ```cs
 MultipleOf

@@ -1,24 +1,62 @@
-## Id
+## KField
+
+### Id
 
 ```cs
 Id
 ```
 
-Id: field Id
+Identifier for the field
 
-## Title
+### Title
 
 ```cs
 Title
 ```
 
-Title: field title
+Sets the title for the field
 
-## FieldType
+### PropertyName
+
+```cs
+PropertyName
+```
+
+### Placeholder
+
+```cs
+Placeholder
+```
+
+Inserts placeholder text in the field
+
+### 
+
+```cs
+
+```
+
+Inserts placeholder text in the field when the field is disabled
+
+### FieldType
 
 ```cs
 FieldType
 ```
 
-FieldType: type of field
+Defines the type of field
+
+### DefaultValue
+
+```cs
+DefaultValue
+```
+
+Sets a default value for the field
+
+### KField
+
+```cs
+new KField()
+```
 

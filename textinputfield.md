@@ -1,32 +1,34 @@
-## MaxLength
+## TextInputField : KField
+
+### MaxLength
 
 ```cs
 MaxLength
 ```
 
-MaxLength: the maximum length of the field.
+The maximum length of the field
 
-## MinLength
+### MinLength
 
 ```cs
 MinLength
 ```
 
-MinLength: the minimum lengths of the field.
+The minimum lengths of the field
 
-## Pattern
+### Pattern
 
 ```cs
 Pattern
 ```
 
-Pattern: a regex pattern that the field must match.
+Sets a regex pattern that the field must match
 
-## IsMultiLine
+### IsMultiLine
 
 ```cs
 IsMultiLine
 ```
 
-IsMultiLine: if true, the field will allow more than 1 line of text.
+If true, the field will allow more than 1 line of text
 
