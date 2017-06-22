@@ -15,6 +15,9 @@ An instance of a FormCalculation
 ```cs
 string Function
 ```
+```javascript
+var Function
+```
 
 The formula that is the basis of the calculation
 
