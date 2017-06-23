@@ -1,5 +1,7 @@
 ## CalculationField : KField
 
+---
+
 The Calculation field displays a result based on a formula and one or more variables.
 
 ### Calculation
@@ -10,7 +12,11 @@ FormCalculation Calculation
 
 An instance of a FormCalculation object
 
+## 
+
 ## FormCalculation
+
+---
 
 The form calculation object
 
@@ -43,4 +49,6 @@ Set the number of decimal places in the calculation result
 ```cs
 new FormCalculation()
 ```
+
+
 
