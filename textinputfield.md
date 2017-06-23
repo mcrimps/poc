@@ -1,5 +1,7 @@
 ## TextInputField : KField
 
+---
+
 The Text Input field is used for string inputs. This can be a single line or have multiple lines.
 
 ### MaxLength
