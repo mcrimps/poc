@@ -1,9 +1,11 @@
 ## KField
 
+KField is the base class from which the fields are derived.
+
 ### Id
 
 ```cs
-Id
+string Id
 ```
 
 Identifier for the field
@@ -11,7 +13,7 @@ Identifier for the field
 ### Title
 
 ```cs
-Title
+string Title
 ```
 
 Sets the title for the field
@@ -19,37 +21,31 @@ Sets the title for the field
 ### PropertyName
 
 ```cs
-PropertyName
+string PropertyName
 ```
+
+The path name used to reference the field within the form
 
 ### Placeholder
 
 ```cs
-Placeholder
+string Placeholder
 ```
 
 Inserts placeholder text in the field
 
-### 
+### DisabledPlaceholder
 
 ```cs
-
+string DisabledPlaceholder
 ```
 
 Inserts placeholder text in the field when the field is disabled
 
-### FieldType
-
-```cs
-FieldType
-```
-
-Defines the type of field
-
 ### DefaultValue
 
 ```cs
-DefaultValue
+JToken DefaultValue
 ```
 
 Sets a default value for the field
