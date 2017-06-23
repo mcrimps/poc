@@ -2,7 +2,7 @@
 
 ---
 
-KField is the base class from which the fields are derived.
+KField is the base class from which the fields are derived
 
 ### Id
 
