@@ -1,10 +1,8 @@
-### Text
+## TextInputField : KField
 
 The Text Input field is used for string inputs. This can be a single line or have multiple lines.
 
-#### TextInputField : KField
-
-##### MaxLength
+### MaxLength
 
 ```cs
 int MaxLength
@@ -12,7 +10,7 @@ int MaxLength
 
 The maximum length of the field
 
-##### MinLength
+### MinLength
 
 ```cs
 int MinLength
@@ -20,7 +18,7 @@ int MinLength
 
 The minimum lengths of the field
 
-##### Pattern
+### Pattern
 
 ```cs
 string Pattern
@@ -28,7 +26,7 @@ string Pattern
 
 Sets a regex pattern that the field must match
 
-##### IsMultiLine
+### IsMultiLine
 
 ```cs
 bool IsMultiLine

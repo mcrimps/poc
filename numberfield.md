@@ -1,10 +1,8 @@
-### Number
+## NumberField : KField
 
 The Number field is used for numeric inputs. This can be a single line or have multiple lines.
 
-#### NumberField : KField
-
-##### Maximum
+### Maximum
 
 ```cs
 double Maximum
@@ -12,7 +10,7 @@ double Maximum
 
 The highest value the field can contain. Valid entries cannot exceed this value.
 
-##### Minimum
+### Minimum
 
 ```cs
 double Minimum
@@ -20,7 +18,7 @@ double Minimum
 
 The lowest value the field can contain. Valid entries cannot be less than this value.
 
-##### MultipleOf
+### MultipleOf
 
 ```cs
 double MultipleOf
