@@ -1,5 +1,7 @@
 ## NumberField : KField
 
+---
+
 The Number field is used for numeric inputs. This can be a single line or have multiple lines.
 
 ### Maximum
